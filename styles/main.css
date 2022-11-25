@@ -5,7 +5,7 @@ html {
   body {
     font-family: "Work Sans", sans-serif;
     margin: 0;
-    color: #D82148;
+    color: #24B33B;
     background-color: #151D3B
   }
   
@@ -44,7 +44,7 @@ html {
   }
   
   .four .text-box {
-    border: 3px solid #D82148;
+    border: 3px solid #24B33B;
     border-radius: 5px;
     margin: 0 auto;
     padding: 10px;
@@ -62,7 +62,7 @@ html {
   }
   
   .text-box .fake-btn {
-    background-color: #D82148;
+    background-color: #24B33B;
     border-radius: 3px;
     bottom: -50px;
     color: #fff;
